@@ -16,7 +16,7 @@ _$ArticleImpl _$$ArticleImplFromJson(Map<String, dynamic> json) =>
       subsection: json['subsection'] as String,
       title: json['title'] as String,
       abstract: json['abstract'] as String,
-      image: _mapImage(json['media'] as List<Map<String, dynamic>>),
+      image: _mapImage(json['media'] as List),
     );
 
 Map<String, dynamic> _$$ArticleImplToJson(_$ArticleImpl instance) =>

@@ -24,9 +24,9 @@ class Article with _$Article{
 
 }
 
-String _mapImage(List<Map<String, dynamic>> media){
+String _mapImage(List<dynamic> media){
   if(media.isNotEmpty && (media.first['media-metadata']?.isNotEmpty ?? false)){
-    List<Map<String, dynamic>> metaDate = media.first['media-metadata'];
+    List<dynamic> metaDate = media.first['media-metadata'];
     return metaDate.firstWhereOrNull((element) => element['format'] == 'mediumThreeByTwo440')?['url'] ?? "";
   }
   return "";
