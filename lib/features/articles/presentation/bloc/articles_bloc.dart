@@ -12,6 +12,8 @@ part 'articles_state.dart';
 class ArticlesBloc extends Bloc<ArticlesEvent, ArticlesState> {
   final GetArticlesListUseCase _getArticlesListUseCase;
   final List<Article> _articlesList = [];
+  String _articlesPeriod = "1";
+  bool isBusy = false;
 
   ArticlesBloc(this._getArticlesListUseCase) : super(ArticlesLoading()) {
 
@@ -21,14 +23,20 @@ class ArticlesBloc extends Bloc<ArticlesEvent, ArticlesState> {
 
 
   Future<void> _getArticlesEvent(GetArticlesEvent event, Emitter<ArticlesState> emit) async {
+    if(isBusy) return;
+
+    isBusy = true;
+
     emit(ArticlesLoading());
-    var response = await _getArticlesListUseCase.call(period: event.period);
+    _articlesPeriod = event.period ?? _articlesPeriod;
+    var response = await _getArticlesListUseCase.call(period: _articlesPeriod);
     if(response is ResponseSuccess){
       _articlesList.addAll(response.data?.articlesList ?? []);
       emit(ArticlesSuccess(_articlesList));
     } else {
       emit(ArticlesError(response.errorMessage));
     }
+    isBusy = false;
   }
 
 }

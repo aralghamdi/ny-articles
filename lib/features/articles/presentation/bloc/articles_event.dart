@@ -8,8 +8,8 @@ abstract class ArticlesEvent extends Equatable {
 }
 
 class GetArticlesEvent extends ArticlesEvent {
-  final String period;
-  const GetArticlesEvent(this.period);
+  final String? period;
+  const GetArticlesEvent({this.period});
 
   @override
   List<Object?> get props => [period];
