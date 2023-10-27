@@ -18,7 +18,7 @@ class ArticlesBloc extends Bloc<ArticlesEvent, ArticlesState> {
   ArticlesBloc(this._getArticlesListUseCase) : super(ArticlesLoading()) {
 
     on<GetArticlesEvent>(_getArticlesEvent);
-
+    on<FilterArticlesEvent>(_filterArticlesEvent);
   }
 
 
@@ -32,11 +32,18 @@ class ArticlesBloc extends Bloc<ArticlesEvent, ArticlesState> {
     var response = await _getArticlesListUseCase.call(period: _articlesPeriod);
     if(response is ResponseSuccess){
       _articlesList.addAll(response.data?.articlesList ?? []);
-      emit(ArticlesSuccess(_articlesList, _articlesPeriod));
+      emit(ArticlesSuccess(_articlesList, _articlesList.map((e) => e.section).toSet().toList(), _articlesPeriod));
     } else {
       emit(ArticlesError(response.errorMessage));
     }
     isBusy = false;
   }
 
+  Future<void> _filterArticlesEvent(FilterArticlesEvent event, Emitter<ArticlesState> emit) async {
+    final filteredArticles = _articlesList.where((element) => element.section == event.section).toList();
+    emit((state as ArticlesSuccess).copyWith(articlesList: filteredArticles, selectedSection: event.section));
+  }
+
 }
+
+

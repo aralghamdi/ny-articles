@@ -14,3 +14,12 @@ class GetArticlesEvent extends ArticlesEvent {
   @override
   List<Object?> get props => [period];
 }
+
+
+class FilterArticlesEvent extends ArticlesEvent {
+  final String section;
+  const FilterArticlesEvent(this.section);
+
+  @override
+  List<Object?> get props => [section];
+}
