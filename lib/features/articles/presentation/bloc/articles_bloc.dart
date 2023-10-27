@@ -32,7 +32,7 @@ class ArticlesBloc extends Bloc<ArticlesEvent, ArticlesState> {
     var response = await _getArticlesListUseCase.call(period: _articlesPeriod);
     if(response is ResponseSuccess){
       _articlesList.addAll(response.data?.articlesList ?? []);
-      emit(ArticlesSuccess(_articlesList));
+      emit(ArticlesSuccess(_articlesList, _articlesPeriod));
     } else {
       emit(ArticlesError(response.errorMessage));
     }

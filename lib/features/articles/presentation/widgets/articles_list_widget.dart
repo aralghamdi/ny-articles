@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ny_articles/features/articles/domain/entities/article.dart';
+import 'package:ny_articles/features/articles/presentation/widgets/filter_wigets/articles_filter_bar_widget.dart';
 
 import 'article_card_widget.dart';
 
@@ -10,14 +11,20 @@ class ArticlesListWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ListView.separated(
-        padding: const EdgeInsets.only(bottom: 20),
-        itemCount: articlesList.length,
-        separatorBuilder: (context, index) => const SizedBox(height: 12),
-        itemBuilder: (itemBuilder, index) {
-          return ArticleCardWidget(
-              key: ValueKey("${articlesList[index].id}"),
-              article: articlesList[index]);
-        });
+    return CustomScrollView(
+      slivers: [
+        const SliverAppBar(
+          title: ArticlesFilterBarWidget(),
+        ),
+        SliverList.separated(
+            itemCount: articlesList.length,
+            separatorBuilder: (context, index) => const SizedBox(height: 12),
+            itemBuilder: (itemBuilder, index) {
+              return ArticleCardWidget(
+                  key: ValueKey("${articlesList[index].id}"),
+                  article: articlesList[index]);
+            }),
+      ],
+    );
   }
 }

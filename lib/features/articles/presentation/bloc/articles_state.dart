@@ -11,7 +11,8 @@ class ArticlesLoading extends ArticlesState {}
 
 class ArticlesSuccess extends ArticlesState {
   final List<Article> articlesList;
-  const ArticlesSuccess(this.articlesList);
+  final String period;
+  const ArticlesSuccess(this.articlesList, this.period);
 
   @override
   List<Object?> get props => [articlesList];
