@@ -1,0 +1,1255 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/623876d6-1cfd-50cc-9305-6603bd695dc6",
+      "url": "https://www.nytimes.com/2023/10/22/opinion/liberty-university-scandal-education.html",
+      "id": 100000009142690,
+      "asset_id": 100000009142690,
+      "source": "New York Times",
+      "published_date": "2023-10-22",
+      "updated": "2023-10-22 22:07:17",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Colleges and Universities;Christians and Christianity;Suits and Litigation (Civil);Religion-State Relations;Sexual Harassment;Evangelical Movement;Falwell, Jerry Jr (1962- );Education Department (US);Liberty University;Lynchburg (Va);United States",
+      "column": null,
+      "byline": "By David French",
+      "type": "Article",
+      "title": "The Worst Scandal in American Higher Education Isn’t in the Ivy League",
+      "abstract": "Liberty University’s misconduct is emblematic of the crisis engulfing Christian America.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Christians and Christianity",
+        "Suits and Litigation (Civil)",
+        "Religion-State Relations",
+        "Sexual Harassment",
+        "Evangelical Movement"
+      ],
+      "org_facet": [
+        "Education Department (US)",
+        "Liberty University"
+      ],
+      "per_facet": [
+        "Falwell, Jerry Jr (1962- )"
+      ],
+      "geo_facet": [
+        "Lynchburg (Va)",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Julia Rendleman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/opinion/22french/22french-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/opinion/22french/22french-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/opinion/22french/22french-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/3e612dd2-d29d-5d56-83b9-485f226a1172",
+      "url": "https://www.nytimes.com/interactive/2023/10/20/upshot/flashback.html",
+      "id": 100000009142242,
+      "asset_id": 100000009142242,
+      "source": "New York Times",
+      "published_date": "2023-10-20",
+      "updated": "2023-10-27 18:14:07",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "internal-paywall-exempt;Content Type: Quiz",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "Flashback: Your Weekly History Quiz, October 22, 2023",
+      "abstract": "Can you sort 8 historical events?",
+      "des_facet": [
+        "internal-paywall-exempt",
+        "Content Type: Quiz"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/20/upshot/flashback-promo-20231022/flashback-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/20/upshot/flashback-promo-20231022/flashback-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/20/upshot/flashback-promo-20231022/flashback-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/2e69f0c9-7fde-5bb2-87b8-0fe84269f1c9",
+      "url": "https://www.nytimes.com/interactive/2023/10/22/magazine/hadley-vlahos-interview.html",
+      "id": 100000009140825,
+      "asset_id": 100000009140825,
+      "source": "New York Times",
+      "published_date": "2023-10-22",
+      "updated": "2023-10-27 14:47:25",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Hospice Care;Social Media;Death and Dying;Elder Care;Nursing and Nurses;Books and Literature;Content Type: Personal Profile;Vlahos, Hadley",
+      "column": null,
+      "byline": "By David Marchese",
+      "type": "Interactive",
+      "title": "A Hospice Nurse on Embracing the Grace of Dying",
+      "abstract": "Hadley Vlahos​, TikTok star and best-selling author​, wants us to let go of our fighting words​ about death.",
+      "des_facet": [
+        "Hospice Care",
+        "Social Media",
+        "Death and Dying",
+        "Elder Care",
+        "Nursing and Nurses",
+        "Books and Literature",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Vlahos, Hadley"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Mamadi Doumbouya for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/29/magazine/29mag-talk-copy/29mag-talk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/29/magazine/29mag-talk-copy/29mag-talk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/29/magazine/29mag-talk-copy/29mag-talk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/69bc32a6-f6ac-5eb1-85d8-2d713879f3d6",
+      "url": "https://www.nytimes.com/2023/10/23/nyregion/fred-camillo-trump-signs-greenwich.html",
+      "id": 100000009140373,
+      "asset_id": 100000009140373,
+      "source": "New York Times",
+      "published_date": "2023-10-23",
+      "updated": "2023-10-27 14:58:13",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Freedom of Speech and Expression;Suits and Litigation (Civil);Hoaxes and Pranks;Local Government;internal-great-read;Elections;Signs and Signage;Political Advertising;internal-sub-only;Camillo, Fred (1962- );Kordick, Mark;Republican Party;Greenwich (Conn)",
+      "column": null,
+      "byline": "By Dan Barry",
+      "type": "Article",
+      "title": "Were the Fake Trump Signs a Prank? Or a Political Dirty Trick?",
+      "abstract": "The placards were up in a wealthy town for less than a day. The fight over them lasted years.",
+      "des_facet": [
+        "Freedom of Speech and Expression",
+        "Suits and Litigation (Civil)",
+        "Hoaxes and Pranks",
+        "Local Government",
+        "internal-great-read",
+        "Elections",
+        "Signs and Signage",
+        "Political Advertising",
+        "internal-sub-only"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Camillo, Fred (1962- )",
+        "Kordick, Mark"
+      ],
+      "geo_facet": [
+        "Greenwich (Conn)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When he was a Greenwich police captain, Mark Kordick was asked by the deputy chief what he knew about the Trump signs. His response: “Quite a bit.”",
+          "copyright": "Joe Buglewicz for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/29/nyregion/29ct-trump-signs/20ct-trump-signs-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/29/nyregion/29ct-trump-signs/20ct-trump-signs-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/29/nyregion/29ct-trump-signs/20ct-trump-signs-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/372b369e-3b62-5ce3-831b-4479fa06c46b",
+      "url": "https://www.nytimes.com/2023/10/25/us/politics/house-republicans-speaker-vote-johnson.html",
+      "id": 100000009149146,
+      "asset_id": 100000009149146,
+      "source": "New York Times",
+      "published_date": "2023-10-25",
+      "updated": "2023-10-26 09:51:03",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Conservatism (US Politics);Johnson, Mike (1972- );Trump, Donald J;Republican Party;House of Representatives",
+      "column": null,
+      "byline": "By Catie Edmondson",
+      "type": "Article",
+      "title": "House Elects Mike Johnson as Speaker, Embracing a Hard-Right Conservative",
+      "abstract": "Republicans turned to a little-known Louisiana lawmaker who led congressional efforts to overturn the 2020 election, ending a weekslong deadlock that paralyzed the House.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Conservatism (US Politics)"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Johnson, Mike (1972- )",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/01c50350-2b86-5778-a85e-aa06698161a8",
+      "url": "https://www.nytimes.com/2023/10/21/world/middleeast/us-hostages-release-israel-hamas-qatar-raanan.html",
+      "id": 100000009144003,
+      "asset_id": 100000009144003,
+      "source": "New York Times",
+      "published_date": "2023-10-21",
+      "updated": "2023-10-24 21:33:17",
+      "section": "World",
+      "subsection": "Middle East",
+      "nytdsection": "world",
+      "adx_keywords": "Israel-Gaza War (2023- );Kidnapping and Hostages;Terrorism;International Relations;United States International Relations;Blinken, Antony J;Hamas;Gaza Strip;Qatar;Israel",
+      "column": null,
+      "byline": "By Jeffrey Gettleman, Adam Goldman, Edward Wong and Ben Hubbard",
+      "type": "Article",
+      "title": "How Two American Hostages Were Set Free From Gaza",
+      "abstract": "It took American and Qatari diplomacy, and self-interested decisions by Hamas, to bring two hostages safely back to Israel.",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Kidnapping and Hostages",
+        "Terrorism",
+        "International Relations",
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "Hamas"
+      ],
+      "per_facet": [
+        "Blinken, Antony J"
+      ],
+      "geo_facet": [
+        "Gaza Strip",
+        "Qatar",
+        "Israel"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An image released by the American government shows the freed American hostages Judith Raanan, right, and her daughter Natalie Raanan, speaking by phone to President Biden on Friday.",
+          "copyright": "U.S. Embassy in Jerusalem, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/21/multimedia/21israel-qatar-hostages1-lzwb/21israel-qatar-hostages1-lzwb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/21/multimedia/21israel-qatar-hostages1-lzwb/21israel-qatar-hostages1-lzwb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/21/multimedia/21israel-qatar-hostages1-lzwb/21israel-qatar-hostages1-lzwb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/20e3c6f1-e9ae-5cbf-b9a9-66e85651df55",
+      "url": "https://www.nytimes.com/2023/10/23/world/europe/israeli-hamas-middle-east-implications.html",
+      "id": 100000009144376,
+      "asset_id": 100000009144376,
+      "source": "New York Times",
+      "published_date": "2023-10-23",
+      "updated": "2023-10-24 08:22:35",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Israel-Gaza War (2023- );Palestinians;Terrorism;International Relations;United States International Relations;Arab-Israeli War (1973);Politics and Government;Defense and Military Forces;Peace Process;Israeli Settlements;Arabs;Secession and Independence Movements;Abbas, Mahmoud;Biden, Joseph R Jr;Mohammed bin Salman (1985- );Netanyahu, Benjamin;Hamas;Hezbollah;Palestinian Authority;Palestinian Islamic Jihad;Israel;West Bank;Middle East",
+      "column": null,
+      "byline": "By Steven Erlanger",
+      "type": "Article",
+      "title": "War Has Smashed Assumptions About Israeli-Palestinian Conflict",
+      "abstract": "Some paradigms taken for granted about Israel and the Palestinians, both in Gaza and the West Bank, have been broken. So has the idea that Washington can ignore the Middle East.",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Palestinians",
+        "Terrorism",
+        "International Relations",
+        "United States International Relations",
+        "Arab-Israeli War (1973)",
+        "Politics and Government",
+        "Defense and Military Forces",
+        "Peace Process",
+        "Israeli Settlements",
+        "Arabs",
+        "Secession and Independence Movements"
+      ],
+      "org_facet": [
+        "Hamas",
+        "Hezbollah",
+        "Palestinian Authority",
+        "Palestinian Islamic Jihad"
+      ],
+      "per_facet": [
+        "Abbas, Mahmoud",
+        "Biden, Joseph R Jr",
+        "Mohammed bin Salman (1985- )",
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Israel",
+        "West Bank",
+        "Middle East"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A member of the Israeli special forces training in a mock Palestinian village outside Tse’elim, Israel, on Friday.",
+          "copyright": "Sergey Ponomarev for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23israel-paradigm-1-hfcm/23israel-paradigm-1-hfcm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23israel-paradigm-1-hfcm/23israel-paradigm-1-hfcm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23israel-paradigm-1-hfcm/23israel-paradigm-1-hfcm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8fbc80a5-9383-5e6d-84af-ea3d1aadbadf",
+      "url": "https://www.nytimes.com/2023/10/24/us/jenna-ellis-guilty-trump-georgia.html",
+      "id": 100000009147213,
+      "asset_id": 100000009147213,
+      "source": "New York Times",
+      "published_date": "2023-10-24",
+      "updated": "2023-10-25 12:00:06",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Georgia Criminal Case Against Trump (2020 Election);Voter Fraud (Election Fraud);Racketeering and Racketeers;Presidential Election of 2020;Ellis, Jenna (Attorney);Trump, Donald J;Willis, Fani T;Georgia;Fulton County (Ga)",
+      "column": null,
+      "byline": "By Richard Fausset and Danny Hakim",
+      "type": "Article",
+      "title": "Jenna Ellis, Former Trump Lawyer, Pleads Guilty in Georgia Election Case",
+      "abstract": "Three lawyers indicted with Donald Trump for trying to overturn the 2020 election results will now cooperate with prosecutors in the racketeering case.",
+      "des_facet": [
+        "Georgia Criminal Case Against Trump (2020 Election)",
+        "Voter Fraud (Election Fraud)",
+        "Racketeering and Racketeers",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Ellis, Jenna (Attorney)",
+        "Trump, Donald J",
+        "Willis, Fani T"
+      ],
+      "geo_facet": [
+        "Georgia",
+        "Fulton County (Ga)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jenna Ellis in 2020. During a public hearing Tuesday morning in Atlanta, Ms. Ellis pleaded guilty to a felony charge of aiding and abetting false statements and writings.",
+          "copyright": "Jacquelyn Martin/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24nat-georgia-plea-tjkf/24nat-georgia-plea-tjkf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24nat-georgia-plea-tjkf/24nat-georgia-plea-tjkf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/24/multimedia/24nat-georgia-plea-tjkf/24nat-georgia-plea-tjkf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/56435d0d-7ae6-572a-93ee-27766fe6f5f0",
+      "url": "https://www.nytimes.com/2023/10/23/us/alaska-airlines-flight-diverted.html",
+      "id": 100000009145525,
+      "asset_id": 100000009145525,
+      "source": "New York Times",
+      "published_date": "2023-10-23",
+      "updated": "2023-10-24 17:21:01",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Aviation Accidents, Safety and Disasters;Murders, Attempted Murders and Homicides;Pilots;Emerson, Joseph D;Alaska Air Group Inc;Alaska Airlines;Federal Aviation Administration;Alaska;Everett (Wash)",
+      "column": null,
+      "byline": "By Johnny Diaz and Michael Levenson",
+      "type": "Article",
+      "title": "Off-Duty Pilot Accused of Trying to Cut the Engines on an Alaska Airlines Flight",
+      "abstract": "The flight was diverted to Portland, Ore., because of a “credible security threat” inside the cockpit, the airline said. An off-duty pilot was charged with attempted murder.",
+      "des_facet": [
+        "Aviation Accidents, Safety and Disasters",
+        "Murders, Attempted Murders and Homicides",
+        "Pilots"
+      ],
+      "org_facet": [
+        "Alaska Air Group Inc",
+        "Alaska Airlines",
+        "Federal Aviation Administration"
+      ],
+      "per_facet": [
+        "Emerson, Joseph D"
+      ],
+      "geo_facet": [
+        "Alaska",
+        "Everett (Wash)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Alaska Airlines regional jet was headed to San Francisco from Everett, Wash., on Sunday when a pilot reported a “credible security threat” related to an “authorized occupant” in the cockpit, the airline said.",
+          "copyright": "Ted S. Warren/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23xp-cockpit-tmhv/23xp-cockpit-tmhv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23xp-cockpit-tmhv/23xp-cockpit-tmhv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23xp-cockpit-tmhv/23xp-cockpit-tmhv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a648a304-207b-5a7a-96c4-72bf1945ef87",
+      "url": "https://www.nytimes.com/2023/10/22/nyregion/george-santos-interview.html",
+      "id": 100000009117629,
+      "asset_id": 100000009117629,
+      "source": "New York Times",
+      "published_date": "2023-10-22",
+      "updated": "2023-10-24 21:06:58",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "internal-sub-only;Content Type: Personal Profile;Rumors and Misinformation;News and News Media;audio-neutral-informative;internal-great-read;United States Politics and Government;Santos, George (1988- );New York Times;House of Representatives;New York State",
+      "column": null,
+      "byline": "By Grace Ashford",
+      "type": "Article",
+      "title": "George Santos Swore He’d Never Talk to Me. Then the Phone Rang.",
+      "abstract": "Ending months of silence, the politician began an unusual dialogue with a reporter he had long avoided.",
+      "des_facet": [
+        "internal-sub-only",
+        "Content Type: Personal Profile",
+        "Rumors and Misinformation",
+        "News and News Media",
+        "audio-neutral-informative",
+        "internal-great-read",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "New York Times",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Santos, George (1988- )"
+      ],
+      "geo_facet": [
+        "New York State"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative George Santos, in May, after his arraignment in Federal District Court on Long Island.",
+          "copyright": "Gabriela Bhaskar for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/multimedia/22santos-calls-top-gwbf/22santos-calls-top-gwbf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/multimedia/22santos-calls-top-gwbf/22santos-calls-top-gwbf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/multimedia/22santos-calls-top-gwbf/22santos-calls-top-gwbf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/866de787-0471-5809-bc63-91b109e85d50",
+      "url": "https://www.nytimes.com/2023/10/23/style/stilettos-high-heels.html",
+      "id": 100000009142887,
+      "asset_id": 100000009142887,
+      "source": "New York Times",
+      "published_date": "2023-10-23",
+      "updated": "2023-10-25 12:52:38",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Fashion and Apparel;Shoes and Boots;Content Type: Service",
+      "column": null,
+      "byline": "By Vanessa Friedman",
+      "type": "Article",
+      "title": "Why Do Women Still Wear Stilettos?",
+      "abstract": "A reader wonders why the uncomfortable and often impractical shoes have not been retired.",
+      "des_facet": [
+        "Fashion and Apparel",
+        "Shoes and Boots",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stilettos, which have been causing foot pain ever since they were invented in the 1950s, bestow a sense of confidence on some wearers.",
+          "copyright": "Carlos Alvarez/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/20/fashion/20ASK-VANESSA/20ASK-VANESSA-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/20/fashion/20ASK-VANESSA/20ASK-VANESSA-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/20/fashion/20ASK-VANESSA/20ASK-VANESSA-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7691be52-c2b9-5f5c-8c5e-0c01d334bf5b",
+      "url": "https://www.nytimes.com/2023/10/24/opinion/emergency-room-hospitals-violence.html",
+      "id": 100000009130119,
+      "asset_id": 100000009130119,
+      "source": "New York Times",
+      "published_date": "2023-10-24",
+      "updated": "2023-10-25 11:39:40",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Hospitals;Emergency Medical Treatment;Assaults;Health Care Workers;Workplace Hazards and Violations;your-feed-opinionvideo;United States",
+      "column": null,
+      "byline": "By Roland Kielman, Ryan Mercer and Helen Ouyang",
+      "type": "Article",
+      "title": "Stabbed. Kicked. Spit On. Violence in American Hospitals Is Out of Control.",
+      "abstract": "Emergency rooms are among the most dangerous workplaces in the United States.",
+      "des_facet": [
+        "Hospitals",
+        "Emergency Medical Treatment",
+        "Assaults",
+        "Health Care Workers",
+        "Workplace Hazards and Violations",
+        "your-feed-opinionvideo"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/06/autossell/op-medical-violence-thumb/op-medical-violence-thumb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/06/autossell/op-medical-violence-thumb/op-medical-violence-thumb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/06/autossell/op-medical-violence-thumb/op-medical-violence-thumb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0b80d825-5aaf-5f8f-ae95-5dc378790895",
+      "url": "https://www.nytimes.com/2023/10/24/opinion/falling-shame-aging.html",
+      "id": 100000009115320,
+      "asset_id": 100000009115320,
+      "source": "New York Times",
+      "published_date": "2023-10-24",
+      "updated": "2023-10-25 07:50:41",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Falls",
+      "column": null,
+      "byline": "By Dani Shapiro",
+      "type": "Article",
+      "title": "Why My Fall Made Me Feel So Ashamed",
+      "abstract": "If we could acknowledge that we are all vulnerable, our shame would go away.",
+      "des_facet": [
+        "Falls"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Sam Whitney/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/24/opinion/24shapiro-image/24shapiro-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/24/opinion/24shapiro-image/24shapiro-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/24/opinion/24shapiro-image/24shapiro-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f7264035-dbba-5966-a03e-0d5114d125ec",
+      "url": "https://www.nytimes.com/2023/10/23/us/ukraine-gaza-global-south-hypocrisy.html",
+      "id": 100000009141725,
+      "asset_id": 100000009141725,
+      "source": "New York Times",
+      "published_date": "2023-10-23",
+      "updated": "2023-10-25 08:41:40",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "International Relations;Israel-Gaza War (2023- );Russian Invasion of Ukraine (2022);Civilian Casualties;Palestinians;War Crimes, Genocide and Crimes Against Humanity;Developing Countries;Hamas;Israel;Gaza Strip;Russia;Ukraine;Europe;United States;Africa;Far East, South and Southeast Asia and Pacific Areas;Latin America",
+      "column": null,
+      "byline": "By Neil MacFarquhar",
+      "type": "Article",
+      "title": "Developing World Sees Double Standard in West’s Actions in Gaza and Ukraine",
+      "abstract": "Resentments are complicating calls by the Biden administration to rally the world against efforts to “annihilate” democracies.",
+      "des_facet": [
+        "International Relations",
+        "Israel-Gaza War (2023- )",
+        "Russian Invasion of Ukraine (2022)",
+        "Civilian Casualties",
+        "Palestinians",
+        "War Crimes, Genocide and Crimes Against Humanity",
+        "Developing Countries"
+      ],
+      "org_facet": [
+        "Hamas"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Israel",
+        "Gaza Strip",
+        "Russia",
+        "Ukraine",
+        "Europe",
+        "United States",
+        "Africa",
+        "Far East, South and Southeast Asia and Pacific Areas",
+        "Latin America"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Damage from Israeli airstrikes in the southern Gaza Strip last week. While Washington has vehemently criticized Russia for attacks on civilians in Ukraine, critics say it has expressed little about similar suffering in Gaza.",
+          "copyright": "Yousef Masoud for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/20/multimedia/20israel-us-assess-01-chzp/20israel-us-assess-01-chzp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/20/multimedia/20israel-us-assess-01-chzp/20israel-us-assess-01-chzp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/20/multimedia/20israel-us-assess-01-chzp/20israel-us-assess-01-chzp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2b856c81-b1c0-55eb-b0ae-73a30c35bc49",
+      "url": "https://www.nytimes.com/2023/10/22/us/politics/republican-house-speaker-candidates.html",
+      "id": 100000009143648,
+      "asset_id": 100000009143648,
+      "source": "New York Times",
+      "published_date": "2023-10-22",
+      "updated": "2023-10-24 12:01:16",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Donalds, Byron (1978- );Scott, Austin (1969- );Arrington, Jodey;Johnson, Mike (1972- );Sessions, Pete;Emmer, Tom;Hern, Kevin Ray;Bergman, Jack (1947- );Williams, Roger (1949- );Meuser, Dan (1964- );Republican Party;House of Representatives",
+      "column": null,
+      "byline": "By Catie Edmondson and Luke Broadwater",
+      "type": "Article",
+      "title": "Meet the Republicans Running for Speaker",
+      "abstract": "The lawmakers vying for the job include the No. 3 House Republican, a leader of House conservatives and a sophomore.",
+      "des_facet": [
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Donalds, Byron (1978- )",
+        "Scott, Austin (1969- )",
+        "Arrington, Jodey",
+        "Johnson, Mike (1972- )",
+        "Sessions, Pete",
+        "Emmer, Tom",
+        "Hern, Kevin Ray",
+        "Bergman, Jack (1947- )",
+        "Williams, Roger (1949- )",
+        "Meuser, Dan (1964- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The seat of the House speaker remains empty as Republicans continue their search for a new nominee. ",
+          "copyright": "Olivier Douliery/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/multimedia/22dc-candidates-qjvf/22dc-candidates-qjvf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/multimedia/22dc-candidates-qjvf/22dc-candidates-qjvf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/multimedia/22dc-candidates-qjvf/22dc-candidates-qjvf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6b424479-bcce-5405-84e1-a693adcb8fc2",
+      "url": "https://www.nytimes.com/2023/10/25/us/politics/clarence-thomas-rv-loan-senate-inquiry.html",
+      "id": 100000009147270,
+      "asset_id": 100000009147270,
+      "source": "New York Times",
+      "published_date": "2023-10-25",
+      "updated": "2023-10-26 23:07:35",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Gifts to Public Officials;Ethics and Official Misconduct;Recreational Vehicles;Luxury Goods and Services;United States Politics and Government;Thomas, Clarence;Welters, Anthony;Supreme Court (US);Senate Committee on Finance;Marathon Coach Inc",
+      "column": null,
+      "byline": "By Jo Becker",
+      "type": "Article",
+      "title": "Justice Thomas’s R.V. Loan Was Forgiven, Senate Inquiry Finds",
+      "abstract": "The justice failed to repay much, perhaps all, of the $267,230 loan. His benefactor wiped the slate clean, with ethical and potential tax consequences.",
+      "des_facet": [
+        "Gifts to Public Officials",
+        "Ethics and Official Misconduct",
+        "Recreational Vehicles",
+        "Luxury Goods and Services",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Senate Committee on Finance",
+        "Marathon Coach Inc"
+      ],
+      "per_facet": [
+        "Thomas, Clarence",
+        "Welters, Anthony"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The loan, from a wealthy friend, was for a luxury motor coach that has become a key part of Justice Clarence Thomas’s public persona. “60 Minutes” interviewed him behind the wheel of the vehicle.",
+          "copyright": "CBS 60 Minutes",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25clarencerv-3/25clarencerv-3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25clarencerv-3/25clarencerv-3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/25/multimedia/25clarencerv-3/25clarencerv-3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d89e8363-7567-59b7-879b-bf6eb58f1d68",
+      "url": "https://www.nytimes.com/2023/10/21/us/politics/chesebro-trump.html",
+      "id": 100000009135277,
+      "asset_id": 100000009135277,
+      "source": "New York Times",
+      "published_date": "2023-10-21",
+      "updated": "2023-10-25 15:20:39",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Georgia Criminal Case Against Trump (2020 Election);Storming of the US Capitol (Jan, 2021);Presidential Election of 2020;Content Type: Personal Profile;Legal Profession;Chesebro, Kenneth;Trump, Donald J;Tribe, Laurence H;Harvard Law School",
+      "column": null,
+      "byline": "By Elizabeth Williamson",
+      "type": "Article",
+      "title": "From Bush v. Gore to ‘Stop the Steal’: Kenneth Chesebro’s Long, Strange Trip",
+      "abstract": "Mr. Chesebro, a buttoned-down Harvard lawyer, evolved from left-leaning jurist to key player in the Trump false electors scandal. What happened?",
+      "des_facet": [
+        "Georgia Criminal Case Against Trump (2020 Election)",
+        "Storming of the US Capitol (Jan, 2021)",
+        "Presidential Election of 2020",
+        "Content Type: Personal Profile",
+        "Legal Profession"
+      ],
+      "org_facet": [
+        "Harvard Law School"
+      ],
+      "per_facet": [
+        "Chesebro, Kenneth",
+        "Trump, Donald J",
+        "Tribe, Laurence H"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kenneth Chesebro pleaded guilty on Friday to a single felony charge of conspiracy. He had been charged with seven felonies, including one charge under Georgia’s state racketeering law.",
+          "copyright": "Pool photo by Alyssa Pointer",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/21/multimedia/21dc-chesebro-01-gkjm/21dc-chesebro-01-gkjm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/21/multimedia/21dc-chesebro-01-gkjm/21dc-chesebro-01-gkjm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/21/multimedia/21dc-chesebro-01-gkjm/21dc-chesebro-01-gkjm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a04db256-a415-527f-839d-9d723e91bb8d",
+      "url": "https://www.nytimes.com/2023/10/24/style/who-invited-ivanka.html",
+      "id": 100000009146821,
+      "asset_id": 100000009146821,
+      "source": "New York Times",
+      "published_date": "2023-10-24",
+      "updated": "2023-10-27 17:46:36",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Parties (Social);Celebrities;Kardashian, Kim;Trump, Ivanka",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "Who Invited Ivanka?",
+      "abstract": "Kim Kardashian hosted the shunned socialite to her birthday party, then posted the photos for her 364 million followers.",
+      "des_facet": [
+        "Parties (Social)",
+        "Celebrities"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kardashian, Kim",
+        "Trump, Ivanka"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After being shunned by many of her former friends, Ivanka Trump turned up for Kim Kardashian’s birthday party last Friday.",
+          "copyright": "JB Lacroix/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/29/fashion/24IVANKA-RETURNS/24IVANKA-RETURNS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/29/fashion/24IVANKA-RETURNS/24IVANKA-RETURNS-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/29/fashion/24IVANKA-RETURNS/24IVANKA-RETURNS-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1153e675-34d4-590f-aa8c-62484abbb161",
+      "url": "https://www.nytimes.com/2023/10/22/opinion/hamas-israel-jews-massacre.html",
+      "id": 100000009135527,
+      "asset_id": 100000009135527,
+      "source": "New York Times",
+      "published_date": "2023-10-22",
+      "updated": "2023-10-27 16:06:38",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Israel-Gaza War (2023- );Jews and Judaism;Terrorism;Hamas;Israel",
+      "column": null,
+      "byline": "By Dara Horn",
+      "type": "Article",
+      "title": "Why Jews Cannot Stop Shaking Right Now",
+      "abstract": "The reverberations of pogroms past are shaping the reaction of Jews to Hamas’s attacks on Israel.",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Jews and Judaism",
+        "Terrorism"
+      ],
+      "org_facet": [
+        "Hamas"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Israel"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; Photographs by Tamir Kalifa for The New York Times; Jewish Chronicle/Heritage Images/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/opinion/22Horn/22Horn-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/opinion/22Horn/22Horn-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/22/opinion/22Horn/22Horn-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b0cb3bf4-49be-51bc-a375-afffbe28e6a7",
+      "url": "https://www.nytimes.com/2023/10/23/style/taylor-swift-jackson-mahomes.html",
+      "id": 100000009145447,
+      "asset_id": 100000009145447,
+      "source": "New York Times",
+      "published_date": "2023-10-23",
+      "updated": "2023-10-23 18:47:08",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Football;Pop and Rock Music;Swift, Taylor;Mahomes, Patrick (1995- );Kelce, Travis;Mahomes, Jackson (2000- );Kansas City Chiefs;National Football League",
+      "column": null,
+      "byline": "By Benjamin Hoffman",
+      "type": "Article",
+      "title": "Who Is Jackson Mahomes, and Why Are Swifties Concerned?",
+      "abstract": "Taylor Swift spent Sunday’s game in Kansas City, Mo., in a suite with Mr. Mahomes, an influencer known for problematic behavior and a sexual battery arrest.",
+      "des_facet": [
+        "Football",
+        "Pop and Rock Music"
+      ],
+      "org_facet": [
+        "Kansas City Chiefs",
+        "National Football League"
+      ],
+      "per_facet": [
+        "Swift, Taylor",
+        "Mahomes, Patrick (1995- )",
+        "Kelce, Travis",
+        "Mahomes, Jackson (2000- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taylor Swift and Brittany Mahomes were front and center in a luxury suite at Sunday’s game between the Kansas City Chiefs and the Los Angeles Chargers. Jackson Mahomes, the brother of the star quarterback Patrick Mahomes, was seated behind them.",
+          "copyright": "Jay Biggerstaff/USA Today Sports, via Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23TAYVIS-JACKSON-MAHOMES-01-tmkw/23TAYVIS-JACKSON-MAHOMES-01-tmkw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23TAYVIS-JACKSON-MAHOMES-01-tmkw/23TAYVIS-JACKSON-MAHOMES-01-tmkw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/10/23/multimedia/23TAYVIS-JACKSON-MAHOMES-01-tmkw/23TAYVIS-JACKSON-MAHOMES-01-tmkw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
