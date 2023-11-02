@@ -14,7 +14,7 @@ https://github.com/aralghamdi/ny-articles.git
 Run the following command to install the required dependencies:
 
 ```
-flutter pup get
+flutter pub get
 ```
 
 
