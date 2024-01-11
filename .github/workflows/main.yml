@@ -1,0 +1,29 @@
+name: Build Dart Code
+
+on:
+  push:
+    branches: [ test-workflow ] 
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: dart-lang/setup-dart@v1
+
+      - name: Install dependencies
+        run: dart pub get
+
+      - name: Run build_runner
+        run: dart run build_runner build --delete-conflicting-outputs
+
+      - name: Check for formatting issues
+        run: dart format --set-exit-if-changed .
+
+      - name: commit files
+        run: |
+          git add .
+          git commit -m "build runner"
+          git push origin test-workflow
